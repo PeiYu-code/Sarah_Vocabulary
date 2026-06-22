@@ -1,29 +1,26 @@
 // 1. 單字資料庫 (包含所有單字)
 const wordBank = [
-  { eng: "baby", ch: "寶貝、嬰兒(n.)" },
   { eng: "boy", ch: "男孩(n.)" },
   { eng: "girl", ch: "女孩(n.)" },
-  { eng: "fool", ch: "笨蛋(n.)" },
-  { eng: "man", ch: "人、男人(n.)" },
-  { eng: "woman", ch: "女人(n.)" },
-  { eng: "king", ch: "國王(n.)" },
-  { eng: "queen", ch: "女王、皇后(n.)" },
-  { eng: "people", ch: "人們(n.)" },
-  { eng: "prince", ch: "王子(n.)" },
-  { eng: "princess", ch: "公主(n.)" },
-  { eng: "you", ch: "你、你們" },
   { eng: "I", ch: "我" },
+  { eng: "you", ch: "你、你們" },
   { eng: "he", ch: "他" },
   { eng: "she", ch: "她" },
+  { eng: "it", ch: "它" },
   { eng: "we", ch: "我們" },
-  { eng: "it", ch: "它、牠" },
-  { eng: "they", ch: "他們、她們、它們" },
+  { eng: "they", ch: "他們" },
+  { eng: "run", ch: "跑(v.)" },
+  { eng: "eat", ch: "吃(v.)" },
+  { eng: "like", ch: "喜歡(v.)" },
+  { eng: "teacher", ch: "老師(n.)" },
+  { eng: "student", ch: "學生(n.)" },
+  { eng: "doctor", ch: "醫生(n.)" },
+  { eng: "nurse", ch: "護士(n.)" },
+  { eng: "patient", ch: "病人(n.)" },
   { eng: "house", ch: "房子(n.)" },
-  { eng: "car", ch: "車子(n.)" },
-  { eng: "table", ch: "桌子(n.)" },
-  { eng: "chair", ch: "椅子(n.)" },
-  { eng: "child", ch: "小孩(n.)" },
-  { eng: "kid", ch: "小孩(n.)" }
+  { eng: "park", ch: "公園(n.)" },
+  { eng: "here", ch: "這裡" },
+  { eng: "there", ch: "那裡" }
 ];
 
 // 2. 遊戲狀態與記錄變數
