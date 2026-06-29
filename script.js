@@ -20,7 +20,17 @@ const wordBank = [
   { eng: "house", ch: "房子(n.)" },
   { eng: "park", ch: "公園(n.)" },
   { eng: "here", ch: "這裡" },
-  { eng: "there", ch: "那裡" }
+  { eng: "there", ch: "那裡" },
+  { eng: "go", ch: "去(v.)" },
+  { eng: "come", ch: "來(v.)" },
+  { eng: "table", ch: "桌子(n.)" },
+  { eng: "chair", ch: "椅子(n.)" },
+  { eng: "walk", ch: "走路、散步(v.)" },
+  { eng: "have", ch: "有(v.)" },
+  { eng: "in", ch: "在...裡面" },
+  { eng: "out of", ch: "在...外面" },
+  { eng: "on", ch: "在...上面" },
+  { eng: "under", ch: "在...下面" }
 ];
 
 // 2. 遊戲狀態與記錄變數
