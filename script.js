@@ -30,7 +30,17 @@ const wordBank = [
   { eng: "in", ch: "在...裡面" },
   { eng: "out of", ch: "在...外面" },
   { eng: "on", ch: "在...上面" },
-  { eng: "under", ch: "在...下面" }
+  { eng: "under", ch: "在...下面" },
+  { eng: "meal", ch: "一餐(n.)" },
+  { eng: "breakfast", ch: "早餐(n.)" },
+  { eng: "lunch", ch: "午餐(n.)" },
+  { eng: "dinner", ch: "晚餐(n.)" },
+  { eng: "write", ch: "寫(v.)" },
+  { eng: "read", ch: "閱讀(v.)" },
+  { eng: "drink", ch: "喝(v.)" },
+  { eng: "sleep", ch: "睡覺(v.)" },
+  { eng: "beautiful", ch: "美麗的(adj.)" },
+  { eng: "ugly", ch: "醜陋的(adj.)" }  
 ];
 
 // 2. 遊戲狀態與記錄變數
