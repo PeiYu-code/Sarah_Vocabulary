@@ -56,7 +56,7 @@ let wrongWordsSet = new Set();
 let startTime = null; // 用於計算單輪花費秒數
 
 // ⚠️ 36行：請把這份 Sarah_Vocabulary 專用的新 Google Sheets GAS 網址貼在下方雙引號內：
-const GOOGLE_APP_URL = "https://script.google.com/macros/s/AKfycbwCY2i8580wcMVy2sFY91mkdzoAr2j9H6oskZ_CaDloQSDSBEDi2DIk5QwgnnPqDCxj8A/exec";
+const GOOGLE_APP_URL = "https://script.google.com/macros/s/AKfycbx1Fqe9_w5Zo1GpqzICclNZi3kQ11MD2cMkIs-VZY6hFufUfeJVSsTq2m--rSpZI9UmOg/exec";
 
 // 3. 亂數洗牌函數 (Fisher-Yates Shuffle)
 function shuffle(array) {
