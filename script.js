@@ -40,7 +40,21 @@ const wordBank = [
   { eng: "drink", ch: "喝(v.)" },
   { eng: "sleep", ch: "睡覺(v.)" },
   { eng: "beautiful", ch: "美麗的(adj.)" },
-  { eng: "ugly", ch: "醜陋的(adj.)" }  
+  { eng: "ugly", ch: "醜陋的(adj.)" },
+  { eng: "man", ch: "男子、人類(n.)" },
+  { eng: "woman", ch: "女人(n.)" },
+  { eng: "bag", ch: "袋子(n.)" },
+  { eng: "cake", ch: "蛋糕(n.)" },
+  { eng: "long", ch: "長的、久的(adj.)" },
+  { eng: "short", ch: "短的、矮的(adj.)" },
+  { eng: "city", ch: "城市(n.)" },
+  { eng: "head", ch: "頭(n.)" },
+  { eng: "book", ch: "書(n.)" },
+  { eng: "library", ch: "圖書館(n.)" },
+  { eng: "open", ch: "打開(v.); 開的(adj.)" },
+  { eng: "close", ch: "關閉(v.); 接近的、親近的(adj.)" },
+  { eng: "also", ch: "也" },
+  { eng: "arm", ch: "手臂(n.)" }  
 ];
 
 // 2. 遊戲狀態與記錄變數
