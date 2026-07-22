@@ -54,7 +54,27 @@ const wordBank = [
   { eng: "open", ch: "打開(v.); 開的(adj.)" },
   { eng: "close", ch: "關閉(v.); 接近的、親近的(adj.)" },
   { eng: "also", ch: "也" },
-  { eng: "arm", ch: "手臂(n.)" }  
+  { eng: "arm", ch: "手臂(n.)" },
+  { eng: "leg", ch: "腿(n.)" },
+  { eng: "knee", ch: "膝蓋(n.)" },
+  { eng: "nose", ch: "鼻子(n.)" },
+  { eng: "eye", ch: "眼睛(n.)" },
+  { eng: "ear", ch: "耳朵(n.)" },
+  { eng: "buy", ch: "買(v.)" },
+  { eng: "sell", ch: "賣(v.)" },
+  { eng: "bad", ch: "壞的、不好的(adj.)" },
+  { eng: "duck", ch: "鴨子(n.)" },
+  { eng: "chicken", ch: "雞(n.)" },
+  { eng: "game", ch: "遊戲(n.)" },
+  { eng: "enough", ch: "足夠的(adj.)" },
+  { eng: "smile", ch: "微笑(v.)" },
+  { eng: "laugh", ch: "大笑(v.)" },
+  { eng: "cry", ch: "哭(v.)" },
+  { eng: "kid", ch: "小孩(n.)" },
+  { eng: "baby", ch: "嬰兒(n.)" },
+  { eng: "pig", ch: "豬(n.)" },
+  { eng: "body", ch: "身體(n.)" },
+  { eng: "dance", ch: "跳舞(v.)" },
 ];
 
 // 2. 遊戲狀態與記錄變數
