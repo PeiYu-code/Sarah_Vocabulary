@@ -111,7 +111,7 @@ const wordBank = [
   { eng: "bean", ch: "豆子(n.)" },
   { eng: "doll", ch: "玩偶、洋娃娃(n.)" },
   { eng: "letter", ch: "信、字母(n.)" },
-  { eng: "belt", ch: "皮帶(n.)" }
+  { eng: "belt", ch: "皮帶(n.)" },
   { eng: "dog", ch: "狗(n.)" },
   { eng: "cat", ch: "貓(n.)" },
   { eng: "big", ch: "大的(adj.)" },
