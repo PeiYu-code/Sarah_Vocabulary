@@ -156,7 +156,18 @@ const wordBank = [
   { eng: "grandfather", ch: "祖父(n.)" },
   { eng: "grandmother", ch: "祖母(n.)" },
   { eng: "uncle", ch: "叔叔、伯父、舅舅(n.)" },
-  { eng: "aunt", ch: "阿姨、姑姑、舅媽(n.)" }
+  { eng: "aunt", ch: "阿姨、姑姑、舅媽(n.)" },
+  { eng: "television", ch: "電視(n.)" },
+    { eng: "food", ch: "食物(n.)" },
+    { eng: "o'clock", ch: "...點整" },
+    { eng: "hour", ch: "小時(n.)" },
+    { eng: "minute", ch: "分鐘(n.)" },
+    { eng: "else", ch: "其他" },
+    { eng: "nice", ch: "好的(adj.)" },
+    { eng: "road", ch: "路(n.)" },
+    { eng: "street", ch: "街(n.)" },
+    { eng: "computer", ch: "電腦(n.)" },
+    { eng: "teach", ch: "教導(v.)" }
 ];
 
 // 2. 遊戲狀態與記錄變數
